@@ -1,0 +1,20 @@
+# Build tooling / unused React scaffolding
+node_modules/
+dist/
+package.json
+vite.config.js
+tailwind.config.js
+postcss.config.js
+src/
+public/
+
+# Generator scripts (kept local only)
+generate_resume.py
+generate_cover_letter.py
+
+# Private / job-specific documents (not for public site)
+Updesh_Bajaj_Cover_Letter.pdf
+
+# OS junk
+Thumbs.db
+.DS_Store

@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# AI / LLM crawlers — explicitly allowed (set to Disallow if you don't want to be indexed by them)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://updesh-4.github.io/Portfolio/sitemap.xml

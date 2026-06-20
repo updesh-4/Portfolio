@@ -1,0 +1,75 @@
+# Updesh Bajaj — Software Engineer
+
+> Computer Science undergraduate (CGPA 9.2/10) and Software Engineer Intern with hands-on experience designing, building, and deploying full-stack web applications using React, Node.js, Express, and FastAPI. Strong foundation in DSA (150+ problems) and RESTful API design. Open to full-time Software Engineering roles starting 2026.
+
+## Profile
+
+- **Name:** Updesh Bajaj
+- **Location:** New Delhi, India
+- **Email:** updeshbajaj24@gmail.com
+- **Phone / WhatsApp:** +91-8810322572
+- **GitHub:** https://github.com/updesh-4
+- **LinkedIn:** https://linkedin.com/in/updesh-bajaj
+- **LeetCode:** https://leetcode.com/u/updeshbajaj4/
+- **Portfolio:** https://updesh-4.github.io/Portfolio/
+
+## Current Role
+
+**Software Engineer Intern · Statsmatics Consulting** (Feb 2026 – Present, Onsite)
+Engineering full-stack features across React and Node.js for production web applications. Designing and maintaining RESTful APIs and responsive frontend interfaces.
+
+## Experience Summary (most recent first)
+
+1. **Statsmatics Consulting** — Software Engineer Intern — Feb 2026–Present
+2. **BPAAS Solutions Pvt Ltd** — Software Engineer Intern — Nov 2025–Jan 2026
+3. **Power Grid Corporation of India Limited** — Full Stack Web Developer Intern — Aug 2025–Sep 2025
+4. **Acredge Landworks Pvt Ltd** — Frontend Web Developer Intern — Jun 2025–Aug 2025
+
+## Technical Skills
+
+- **Languages:** C++, JavaScript, TypeScript, SQL, Python
+- **Frontend & Mobile:** React.js, React Native, Next.js, Tailwind CSS, Bootstrap, Material UI, ShadcnUI, HTML, CSS
+- **Backend:** Node.js, Express.js, FastAPI, RESTful APIs, WebSockets, Socket.IO
+- **AI / GenAI:** LLM Integration (DeepSeek, Google Gemini), Prompt Engineering, OpenAI-compatible APIs, RAG fundamentals
+- **Databases:** MongoDB, MySQL, Realm DB
+- **DevOps & Cloud:** Docker, CI/CD (GitHub Actions), AWS (EC2, S3)
+- **CS Fundamentals:** Data Structures, Algorithms, DBMS, Operating Systems, Object-Oriented Programming
+- **Testing & Tools:** Jest, Pytest, Git, GitHub, Postman, Agile, Cloudinary, Razorpay
+
+## Projects
+
+### ApplyWise AI
+RAG-ready resume customization assistant that tailors a candidate profile to any job description — match score, skill-gap analysis, ATS-optimized resume sections, cover letter, and interview questions. Integrates the DeepSeek LLM via an OpenAI-compatible API with a deterministic rule-based fallback and a fact-grounded chat panel.
+**Stack:** React.js, Vite, FastAPI, Python, Pydantic, DeepSeek LLM API
+
+### BiteGram
+Real-time food-delivery platform connecting customers, restaurants, and delivery personnel — browsing, ordering, and live delivery tracking. Order/menu management, secure authentication, dual payments (COD & online), cloud-based media handling.
+**Stack:** React.js, Tailwind, Node.js, Express, MongoDB, Socket.io, Cloudinary, Razorpay, Leaflet
+
+### MindMate
+AI-powered mental-health platform with secure authentication, therapy conversations powered by Gemini, mood tracking, and interactive mindfulness features (breathing exercises, zen garden, forest walks).
+**Stack:** Next.js, TypeScript, React, Tailwind, Node.js, Express, MongoDB, Google Gemini AI
+
+## Education
+
+- **B.Tech, Computer Science & Engineering** — Guru Tegh Bahadur 4th Centenary Engineering College, GGSIPU — 2022–2026 — **CGPA 9.2/10** (top 10% of batch)
+- **CBSE Class XII** — DL DAV Model School — 90% (Computer Science 100/100)
+- **CBSE Class X** — DL DAV Model School — 93.5% (Computer Science 99/100)
+
+## Achievements
+
+- Consistently ranked in the top 10% of the university batch.
+- Solved 150+ Data Structures & Algorithms problems on LeetCode.
+- Member of the Empirical Society Creative Team — content creation & design for college fests.
+
+## Roles I'm a Strong Fit For
+
+Software Engineer (New Grad 2026), Full-Stack Developer, Frontend Engineer, Backend Engineer, MERN Stack Developer, React Developer, Node.js Developer, Python/FastAPI Developer, GenAI / LLM Engineer, Associate Software Engineer, SDE 1.
+
+## Why Hire Updesh
+
+- **Production-ready full-stack experience** — has shipped React + Node + FastAPI features for real internal-team applications (Power Grid scheduling system, BPAAS production code).
+- **End-to-end ownership** — designs APIs, builds UIs, integrates services, deploys.
+- **Modern AI exposure** — has integrated DeepSeek and Gemini LLMs into shipped products with safeguards against hallucination.
+- **Strong CS fundamentals** — 9.2 CGPA, 150+ DSA problems, comfortable in OS, DBMS, OOPS.
+- **Team-ready** — has worked in Agile teams across 4 different companies, comfortable with code reviews, debugging, and cross-functional collaboration.
